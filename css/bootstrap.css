@@ -1,0 +1,40 @@
+
+
+.header { 
+		  background-color:#ae0001;
+		  height: 50px;
+		  font-size: 18px;
+	    }
+	    .size{font-size:35px;}
+ .image{
+ 		width:250px;
+ 		height:80px;
+ 		}
+ .slide{
+ 		height: 450px;
+ 		}
+ .font{
+ 		font-size: 20px;
+ 	}
+.imgp{
+		width: 100%;
+		height: 200px;
+	}
+.back{background-image:url(../img/coconu.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+		background-size: 100% auto;
+	}
+.imga{
+		width:100%;
+		height: 170px;
+	}
+.backbg{background-image:url(../img/imageba.jpg);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+		background-size: 100% auto;
+	}
+	.imge{
+		width: 100%;
+		height: 250px;
+	}
